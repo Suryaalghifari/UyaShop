@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834052954491",
+    "project_id": "uyashop-6c03a",
+    "storage_bucket": "uyashop-6c03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834052954491:android:c200a98ea9034f881345de",
+        "android_client_info": {
+          "package_name": "com.example.uyashop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1m881Z5pAQ9SMDdpUBUOec-2gliFZD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

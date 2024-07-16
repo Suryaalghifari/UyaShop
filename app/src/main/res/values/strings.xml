@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkyApp</string>
+    <string name="introTitle">Log in to Discover the <font color="#616161">Latest Collections</font> and Exciting Deals Every Day!</string>
+    <string name="regis_">Dont have an account? <font color="">Register</font></string>
+    <string name="back_login">Already Have an Account? <font color="">Sign In</font></string>
+
+
+</resources>
+
